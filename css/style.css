@@ -1,0 +1,155 @@
+header{
+    background-color: #D9D9D9;
+    width:  100%;
+    
+
+    
+}
+.logo{
+   padding-top: 50px;
+   padding-left: 130px;
+  vertical-align: middle;
+  padding-bottom: 50px;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+}
+li{
+    display: inline-block;
+    font-family:"ALK Life", sans-serif;
+    font-size: 24px;
+    font-weight: 400px;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+.non_active{
+color: #717276;
+}
+.active{
+    color: #A62B28;
+}
+.first{ margin-left: 287px;
+}
+.middle{
+    margin-left: 38px;
+    margin-right: 38px;
+}
+.background{
+    padding: 130px;
+}
+.leaf{
+    vertical-align: middle;
+    margin-left: 130px;
+}
+h1{
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 32px;
+    color: #717276;
+    font-weight: 700;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 40px;
+
+}
+.first_photo{
+    margin-left: 130px;
+    margin-top: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.photo{
+    width:  373px;
+    height: 512px;
+}
+.name{
+    font-family: "DejaVu Sans", sans-serif;
+    color: #717276;
+    font-size: 24px;
+    font-weight: 700;
+}
+.book{
+    font-family:"ALK Life", sans-serif;
+    color: #000000;
+    font-weight: 400;
+    font-size: 24px;
+     
+}
+.price{
+    font-family: "DejaVu Sans", sans-serif;
+    color: #000000;
+    font-weight: 700;
+    font-size: 24px;
+}
+.second_photo   {
+    margin-top: 40px;
+    margin-left: 38px;
+    vertical-align: top;
+    display: inline-block;
+}
+.third_photo{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 40px;
+    margin-left: 38px
+
+}
+.bookn{
+    width: 373px;
+    height: 60px;
+    font-family:"ALK Life", sans-serif;
+    color: #000000;
+    font-weight: 400;
+    font-size: 24px;
+}
+.one{
+    margin: 40px 31px 160px 130px;
+    vertical-align: top;
+    
+}
+.two{
+    margin-top: 40px;
+    
+    vertical-align: top ;
+}
+.three{
+    margin-top: 40px;
+    vertical-align: top;
+    margin-left: 31px;
+}
+.four{
+    margin-top: 40px;
+    vertical-align: top;
+    margin-left: 31px;
+}
+.article{
+    margin-top: 190px;
+}
+footer{
+    width: 100%;
+    height: 248px;
+    background-color: #D9D9D9;
+}
+.footerpara{
+    font-family:"ALK Life", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    
+    
+}
+.footerdiv{
+    vertical-align: middle;
+    margin-top: 71px;
+    margin-left: 130px;
+    display: inline-block;
+}
+.footericons{
+    vertical-align: middle;
+    margin-top: 71px;
+    display: inline-block;
+    margin-left: 890px;
+}
+.icons{
+    margin-left: 27px;
+    margin-right: 28px;
+}
